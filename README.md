@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamkapil03x
 - 👀 I’m interested in Photography
-- 🌱 I’m currently learning MangoDB
+- 🌱 I’m currently learning JFS
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me Instagram || _iamkapil03x ||
 
